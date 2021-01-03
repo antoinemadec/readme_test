@@ -2,8 +2,6 @@
 
 ## pic side by side
 
-| <img src="https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/normal_default.jpg" alt="normal_default" width="50%"/> | <img src="https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/insert_default.jpg" alt="insert_default" width="50%"/> |
-|:---:|:---:|
-
-| ![](https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/normal_default.jpg) | ![](https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/insert_default.jpg) |
+| ![normal_custom](https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/normal_custom.jpg) | ![insert_default](https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/insert_default.jpg) |
+| ![normal_default](https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/normal_default.jpg) | ![visual_default](https://raw.githubusercontent.com/antoinemadec/gif/master/openrgb/visual_default.jpg) |
 |:---:|:---:|
